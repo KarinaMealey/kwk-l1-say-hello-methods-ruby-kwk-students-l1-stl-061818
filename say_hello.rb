@@ -1,5 +1,5 @@
-def say_hello
+def say_hello.rb
   puts "Hello #{your_name="Ruby Programmer"}!"
 end 
 
-say_hello("Karina")
+say_hello.rb("Karina")
