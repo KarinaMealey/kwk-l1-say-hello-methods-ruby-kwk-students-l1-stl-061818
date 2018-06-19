@@ -5,3 +5,4 @@ def morning_routine
   puts "I eat breakfast"
 end 
 morning_routine 
+morning_routine
